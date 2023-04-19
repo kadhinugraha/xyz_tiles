@@ -1,0 +1,23 @@
+Collection of XYZ tiles. Taken from various resources. Please visit the contributor's website for detail explanation.
+
+*************************************************************************************************************************
+Source : https://github.com/roblabs/xyz-raster-sources
+
+https://tile.openstreetmap.org/{z}/{x}/{y}.png
+https://naturalearthtiles.roblabs.com/tiles/natural_earth_cross_blended_hypso_shaded_relief.raster/{z}/{x}/{y}.png
+https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg
+https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg
+https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png
+https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}
+https://gis.apfo.usda.gov/arcgis/rest/services/NAIP/USDA_CONUS_PRIME/ImageServer/tile/{z}/{y}/{x}
+
+*************************************************************************************************************************
+Source : https://opensourceoptions.com/blog/how-to-add-google-satellite-imagery-and-google-maps-to-qgis/
+
+Google Maps     	      https://mt1.google.com/vt/lyrs=r&x={x}&y={y}&z={z}
+Google Satellite	      https://www.google.cn/maps/vt?lyrs=s@189&gl=cn&x={x}&y={y}&z={z}
+Google Satellite Hybrid	https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}
+Google Terrain	        https://mt1.google.com/vt/lyrs=t&x={x}&y={y}&z={z}
+Google Roads	          https://mt1.google.com/vt/lyrs=h&x={x}&y={y}&z={z} 
+
+*************************************************************************************************************************
