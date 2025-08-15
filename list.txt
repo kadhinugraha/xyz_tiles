@@ -11,6 +11,12 @@ https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png
 https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}
 https://gis.apfo.usda.gov/arcgis/rest/services/NAIP/USDA_CONUS_PRIME/ImageServer/tile/{z}/{y}/{x}
 
+Light Background:
+https://a.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}@2x.png
+
+OSM no labels:
+https://tiles.wmflabs.org/osm-no-labels/{z}/{x}/{y}.png
+
 *************************************************************************************************************************
 Source : https://opensourceoptions.com/blog/how-to-add-google-satellite-imagery-and-google-maps-to-qgis/
 
